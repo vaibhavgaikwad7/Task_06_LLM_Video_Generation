@@ -1,0 +1,6 @@
+# Safety / Compliance Notes
+
+- Do not use the real names or likenesses of prominent people. Replace with a generic role (e.g., “a young Syracuse guard”).
+- Keep content respectful and non-defamatory.
+- If a generator blocks the prompt, remove any identifying info and keep the same vibe.
+- Disclose that the video is AI-generated if sharing publicly.
